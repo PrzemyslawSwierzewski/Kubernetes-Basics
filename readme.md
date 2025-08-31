@@ -10,7 +10,7 @@ This project demonstrates deploying a **multi-container web application** on Kub
 - **Backend:** Node.js / Express API  
 - **Database:** MongoDB StatefulSet with PVC  
 
-The goal is **to learn Kubernetes concepts**, such as:
+The goal of this project is **not to produce a full-featured product**, but to explore Kubernetes concepts such as:
 
 - Deployments and Services  
 - StatefulSets for databases  
